@@ -1,1 +1,10 @@
-{}
+{
+  "GLOBAL_STATUS": "active",
+
+  "BILNET-2026-001": {
+    "school": "Denizli Kampüs",
+    "hwid": "",
+    "start": "2026-02-18",
+    "end": "2027-02-18",
+    "status": "active"
+  },
